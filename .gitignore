@@ -1,4 +1,5 @@
 runs/
 dataset/
+data/
 *.pt
 __pycache__/
