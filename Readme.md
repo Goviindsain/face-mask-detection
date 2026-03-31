@@ -52,7 +52,7 @@ Dataset used from Kaggle:
 
 ### Detection Examples
 
-![Result 1](outputs/image.ong)
+![Result 1](outputs/image.png)
 
 ![Result 2](outputs/image2.png)
 
