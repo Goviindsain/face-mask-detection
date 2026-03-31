@@ -47,3 +47,15 @@ Dataset used from Kaggle:
 - Outputs image with detections  
 
 ---
+
+## 📸 Sample Results
+
+### Detection Examples
+
+![Result 1](outputs/image.jpg)
+
+![Result 2](outputs/image2.jpg)
+
+![Result 2](outputs/image3.jpg)
+
+![Result 2](outputs/image4.jpg)
