@@ -52,10 +52,10 @@ Dataset used from Kaggle:
 
 ### Detection Examples
 
-![Result 1](outputs/image.jpg)
+![Result 1](outputs/image.ong)
 
-![Result 2](outputs/image2.jpg)
+![Result 2](outputs/image2.png)
 
-![Result 2](outputs/image3.jpg)
+![Result 2](outputs/image3.png)
 
-![Result 2](outputs/image4.jpg)
+![Result 2](outputs/image4.png)
